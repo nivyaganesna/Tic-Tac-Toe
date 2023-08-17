@@ -26,9 +26,8 @@ p {
 
 .game-box {
     background-color: #EEE0C9;
-    height: 300px;
-    width: 300px;
-    margin: auto;
+    height: 300px!important;
+    width: 300px!important;
     border-radius: 10px;
 }
 
